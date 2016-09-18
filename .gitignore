@@ -1,0 +1,12 @@
+target/
+.idea/
+*/.DS_Store
+.DS_Store
+*.iml
+s101plugin.state
+RUN_PID
+reload.sh
+start.sh
+stop.sh
+out/
+velocity.log*
